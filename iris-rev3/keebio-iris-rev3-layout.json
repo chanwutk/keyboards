@@ -50,19 +50,19 @@
       "KC_V",
       "KC_B",
       "KC_GRV",
-      "KC_DEL",
+      "MO(2)",
       "KC_N",
       "KC_M",
       "KC_COMM",
       "KC_DOT",
       "KC_SLSH",
-      "KC_RBRC",
+      "KC_RSFT",
       "KC_LGUI",
       "KC_LALT",
       "KC_SPC",
       "KC_ENT",
       "MO(1)",
-      "MO(2)"
+      "KC_BSLS"
     ],
     [
       "KC_GRV",
@@ -88,7 +88,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_BSLS",
+      "KC_RBRC",
       "KC_RCTL",
       "KC_LEFT",
       "KC_DOWN",
@@ -120,7 +120,7 @@
       "KC_SPC",
       "KC_NO",
       "KC_TRNS",
-      "KC_TRNS"
+      "KC_NO"
     ],
     [
       "KC_F12",
@@ -178,7 +178,7 @@
       "KC_NO",
       "KC_NO",
       "KC_TRNS",
-      "KC_TRNS"
+      "KC_NO"
     ]
   ],
   "author": ""
